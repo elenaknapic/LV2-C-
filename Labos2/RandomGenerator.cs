@@ -26,11 +26,7 @@ namespace Labos2
         public int NextInt(int lowerBound, int upperBound)
         {
             return random.Next(lowerBound, upperBound);
-        }
-
-
-
-
+        }
 
     }
 }
